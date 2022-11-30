@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "1087247239418",
+    "project_id": "fit-n-fine-3d3a9",
+    "storage_bucket": "fit-n-fine-3d3a9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1087247239418:android:5be3a7afc9f35cdc322143",
+        "android_client_info": {
+          "package_name": "com.ashutoshdeshmukhh.fitnfine"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1087247239418-0g2mp8vr73gte45bmd6gcd04i8a62gmc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ashutoshdeshmukhh.fitnfine",
+            "certificate_hash": "03fa904c66d747a8d9044045ce9dda93e8aab3d3"
+          }
+        },
+        {
+          "client_id": "1087247239418-1m8afrftb4iijuk5e20chk7p5a6k5onf.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.ashutoshdeshmukhh.fitnfine",
+            "certificate_hash": "3d9fe401e8ca0419659e52246a415b4b1c4b6746"
+          }
+        },
+        {
+          "client_id": "1087247239418-ao2f0s37r171t9lh55ejk94539hvj1qg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAKIIkRRPvefsEtmZLRxm_wE65_jh2i_ow"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1087247239418-ao2f0s37r171t9lh55ejk94539hvj1qg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
